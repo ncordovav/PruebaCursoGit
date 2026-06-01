@@ -1,3 +1,4 @@
 Este es el archivo.txt
 se modifica
 se incluye nueva línea para Github
+Se escribe línea "Hola Mundo otra vez" emulando la modificación de otro usuario del repositorio.
